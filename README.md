@@ -10,5 +10,9 @@ I'm Shadab, working as a Data Scientist.
 - 😄 Pronouns: He/Him
 
 
-<img align="left" src="https://readme-stats-github.vercel.app/api?username=shadab-entrepreneur&show_icons=true&count_private=true&theme=dark" />
-<img align="right" src="https://readme-stats-github.vercel.app/api/top-langs/?username=shadab-entrepreneur&layout=compact&theme=dark&show_icons=true&count_private=true" />
+<a href="https://github.com/shadab-entrepreneur/github-readme-stats">
+  <img align="center" src="https://readme-stats-github.vercel.app/api?username=shadab-entrepreneur&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Shadab's Github Stats" />
+</a>
+<a href="https://github.com/shadab-entrepreneur/github-readme-stats">
+  <img align="center" src="https://readme-stats-github.vercel.app/api/top-langs/?username=shadab-entrepreneur&layout=compact&theme=radical&show_icons=true&count_private=true" />
+</a>
