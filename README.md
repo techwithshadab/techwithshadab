@@ -11,4 +11,4 @@ I'm Shadab, working as a Data Scientist.
 
 
 <img align="left" src="https://readme-stats-github.vercel.app/api?username=shadab-entrepreneur&show_icons=true&count_private=true&theme=dark" />
-<img align="left" src="https://readme-stats-github.vercel.app/api/top-langs/?username=shadab-entrepreneur&layout=compact&theme=dark&show_icons=true&count_private=true" />
+<img align="right" src="https://readme-stats-github.vercel.app/api/top-langs/?username=shadab-entrepreneur&layout=compact&theme=dark&show_icons=true&count_private=true" />
