@@ -9,5 +9,6 @@ I'm Shadab, working as a Data Scientist.
 - 📫 How to reach me: shadab.cs0058@gmail.com
 - 😄 Pronouns: He/Him
 
-![Shadab's Github Stats](https://github-readme-stats.vercel.app/api?username=shadab-entrepreneur&show_icons=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadab-entrepreneur&hide=html&theme=dark&show_icons=true&count_private=true)
+
+<img align="left" src="https://readme-stats-github.vercel.app/api?username=shadab-entrepreneur&show_icons=true&count_private=true&theme=dark" />
+<img align="left" src="https://readme-stats-github.vercel.app/api/top-langs/?username=shadab-entrepreneur&layout=compact&theme=dark&show_icons=true&count_private=true" />
