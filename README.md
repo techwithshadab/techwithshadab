@@ -1,8 +1,7 @@
-<p align = "center">
 ![Visits Badge](https://badges.pufler.dev/visits/shadab-entrepreneur/DataScience)
 ![Years Badge](https://badges.pufler.dev/years/shadab-entrepreneur)
 ![Repos Badge](https://badges.pufler.dev/repos/shadab-entrepreneur)
-</p
+
 
 ### Hi there 👋
 
