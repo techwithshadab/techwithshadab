@@ -1,3 +1,6 @@
+![Visits Badge](https://badges.pufler.dev/visits/puf17640/shadab-entrepreneur)
+![Years Badge](https://badges.pufler.dev/years/puf17640)
+![Repos Badge](https://badges.pufler.dev/repos/puf17640)
 ### Hi there 👋
 
 I'm Shadab, working as a Data Scientist.
