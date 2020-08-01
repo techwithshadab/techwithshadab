@@ -16,7 +16,7 @@ I'm Shadab, working as a Data Scientist.
 
 <p align = "center">
   <img align="center" src="https://readme-stats-github.vercel.app/api?username=shadab-entrepreneur&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Shadab's Github Stats" />
-  <img align="center" src="https://readme-stats-github.vercel.app/api/top-langs/?username=shadab-entrepreneur&theme=radical&layout=compact&count_private=true" />
+  <img align="center" src="https://readme-stats-github.vercel.app/api/top-langs/?username=shadab-entrepreneur&hide=c-sharp,html&theme=radical&count_private=true" />
 </p>
 </br>
 </br>
