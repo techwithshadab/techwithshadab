@@ -1,8 +1,3 @@
-![Visits Badge](https://badges.pufler.dev/visits/shadab-entrepreneur/DataScience)
-![Years Badge](https://badges.pufler.dev/years/shadab-entrepreneur)
-![Repos Badge](https://badges.pufler.dev/repos/shadab-entrepreneur)
-
-
 ### Hi there 👋
 
 I'm Shadab, working as a Data Scientist.
